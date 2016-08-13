@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+h1{
+font-size: 3em
+}
+
+.title {
+  font-size: 5em;
+}
+
+.guess{
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.btn {
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+  font-size: inherit;
+}
+
+.trophy{
+  height: 40vmin;
+}
